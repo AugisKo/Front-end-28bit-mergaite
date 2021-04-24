@@ -19,7 +19,12 @@
     - pagrindinis plotis fiksuotas /800 px/
     - stiliu (css) atskirti nuo HTML
 
+# HTML/CSS rasymo strategija
 
+1 israsyti kiek imanoma isivaizduojama HTML
+2 issirasyti css selectorius (selector)
+3 pradedant nuo labiausiai tevinio (is virsaus) selektoriaus surasome reikaimus stilius
+4 REPEAT - go to step 1
 
 # Pasiskaitymui
 

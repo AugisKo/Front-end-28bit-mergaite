@@ -5,7 +5,7 @@
 
 # Mergaite
 
-_28 group website projet_
+_28 group website project_
 
 This project is for educational purposes only. Pull request are welcome, but priority for my real-life study mates! Thank you for your cooperation!
 
